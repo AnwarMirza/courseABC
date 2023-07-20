@@ -26,7 +26,7 @@ seo:
 
 ### Course Outline
 
-** Caldendar Description **
+**Caldendar Description**
 
 This graduate-level course provides a pathway for students to take the decisive step in leveraging leading-edge artificial intelligence technology to solve many real-world problems. This foundational course first helps students to understand the capabilities, challenges, and consequences of deep learning, then helps them gain the knowledge and skills needed to apply deep learning to any problem, finally levels up their technical career.
 
