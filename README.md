@@ -8,7 +8,11 @@ seo:
   name: Course ABC
 ---
 
-# Course ABC
+# XYZ123 - Introduction to Course ABC
+## Summer 2023 with Prof. Anwar Mirza
+---
+
+## Welcome to XYZ123: Introduction to Course ABC
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
