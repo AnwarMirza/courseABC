@@ -14,6 +14,22 @@ seo:
 
 ## Welcome to XYZ123: Introduction to Course ABC
 
+### Learning Outcomes
+- Build an array of powerful Deep Learning Models and know-how to combine them to solve any problem.
+- Understand the intuition behind artificial neural networks through real-world applications.
+- Understand the intuition behind convolutional neural networks through real-world applications.
+- Understand the intuition behind recurrent neural networks through real-world applications.
+- Understand the differences between supervised vs unsupervised learning in practice.
+- Understand the differences between discriminative vs generative modelling.
+- Hands-on exposure to the instilled understanding.
+- Build artificial neural networks with TensorFlow and Keras in Python.
+
+### Course Outline
+
+** Caldendar Description **
+
+This graduate-level course provides a pathway for students to take the decisive step in leveraging leading-edge artificial intelligence technology to solve many real-world problems. This foundational course first helps students to understand the capabilities, challenges, and consequences of deep learning, then helps them gain the knowledge and skills needed to apply deep learning to any problem, finally levels up their technical career.
+
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - [announcements](announcements.md),
