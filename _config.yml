@@ -16,7 +16,7 @@
 title: Course ABC
 tagline: Welcome to XYZ Course ABC Website
 description: This is a generic course website.
-author: Anwar Mirza
+author: Instructor Name
 baseurl: '/courseABC' # the subpath of your site, e.g. /blog
 url: 'https://anwarmirza.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
