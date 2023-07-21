@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Course ABC
-tagline: A Course Website based on Jekyll template
+tagline: Welcome to XYZ Course ABC Website
 description: This is a generic course website.
 author: Anwar Mirza
 baseurl: '/courseABC' # the subpath of your site, e.g. /blog
