@@ -1,8 +1,8 @@
 ---
-name: Evil Kevin
+name: TA1
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
+website: https://ta1.info
 photo: kevin.jpg
 ---
 
