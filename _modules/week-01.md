@@ -1,9 +1,9 @@
 ---
-title: Introduction to Java
+title: Introduction to Machine Learning
 ---
 
 Sep 28
-: [Java & Git](#)
+: [Introduction & Background](#)
   : [1.1](#)
 
 Sep 29
