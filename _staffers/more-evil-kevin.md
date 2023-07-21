@@ -1,9 +1,9 @@
 ---
-name: More Evil Kevin
+name: TA 2
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: ta2@example.com
+website: https://ta2.info
+photo: ta2.jpg
 ---
 
-I like teaching Computer Science!
+I like teaching and helping students.
