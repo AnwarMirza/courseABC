@@ -3,7 +3,7 @@ name: TA1
 role: Teaching Assistant
 email: me@example.com
 website: https://ta1.info
-photo: kevin.jpg
+photo: ta1.jpg
 ---
 
 I like teaching Computer Science!
