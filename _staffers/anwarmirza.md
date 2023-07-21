@@ -1,9 +1,9 @@
 ---
-name: Anwar Mirza
+name: Instructor Name
 role: Instructor
 email: me@example.com
-website: https://anwatmirza.info
-photo: anwarmirza.png
+website: https://instructor.info
+photo: instructor.png
 meta:
   Office Hours: Thursdays, 1:00pm to 2:00pm
 ---
