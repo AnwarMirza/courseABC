@@ -23,8 +23,8 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs
-# color_scheme: light
-color_scheme: neu
+color_scheme: light
+# color_scheme: neu
 search_enabled: true
 heading_anchors: true
 permalink: pretty
@@ -37,8 +37,8 @@ callouts:
 aux_links:
   Anwar Mirza:
     - 'https://anwarmirza.github.io'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+#  Just the Class on GitHub:
+#    - 'https://github.com/kevinlin1/just-the-class'
 footer_content: "&copy; 2023 Anwar Mirza. Released under the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA</a> license"
 
 # Collections for website data
