@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Home
+layout: home
+title: SEP 123 XYZ Course Title
 nav_exclude: true
 seo: SEP
 type: Course
