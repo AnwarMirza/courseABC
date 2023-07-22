@@ -2,12 +2,13 @@
 layout: page
 title: Home
 nav_exclude: true
-seo:
-  type: Course
-  name: SEP 123, XYZ Course Title
+seo: SEP
+type: Course
+name: SEP 123, XYZ Course Title
 ---
 
-# {{ site.tagline }}
+# {{ site.title }}: {{ site.tagline }}
+<!-- # {{ site.tagline }} --/>
 {: .mb-2 }
 SEP 123, Winter 2023, Tues 11:45-1:25pm/Thurs 2:50-4:30pm, ETB 325
 {: .fs-6 .fw-300 }
@@ -15,6 +16,7 @@ SEP 123, Winter 2023, Tues 11:45-1:25pm/Thurs 2:50-4:30pm, ETB 325
 {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
+[Announcements]({{ site.baseurl }}{% link announcements.md %}){: .btn .btn-outline .fs-3 }
 {% endif %}
 
 ## Instructor
