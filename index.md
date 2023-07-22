@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: SEP 123 XYZ Course Title
 nav_exclude: true
 seo: SEP
@@ -14,7 +14,6 @@ SEP 123, Winter 2023, Tues 11:45-1:25pm/Thurs 2:50-4:30pm, ETB 325
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 [Announcements]({{ site.baseurl }}{% link announcements.md %}){: .btn .btn-outline .fs-3 }
 {% endif %}
 
